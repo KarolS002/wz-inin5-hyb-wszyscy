@@ -1,15 +1,28 @@
-Madryt
+## Strona informacyjna
 
-Widok strony głównej,
-![Zrzut ekranu](img/zrzut.jpg)
+Projekt przedstawia informacje o stolicy Hiszpanii, jej kulturze, architekturze i zabytkach.
 
-Spis treści,
-[Opis projektu](#opis-projektu),
-[Technologie](#technologie),
-[Jak uruchomić](#jak-uruchomić),
-[Autorzy](#autorzy),
+## Link do strony
 
+[Zobacz stronę na GitHub Pages](https://github.com/KarolS002/wz-inin5-hyb-wszyscy)
 
+## Podgląd strony
 
+![Podgląd strony](img/madryt.jpg)
 
+## 📚 Spis treści
 
+- [Technologie](#-technologie)
+- [Twórcy](#-twórcy)
+
+## Technologie
+
+Projekt wykorzystuje:
+
+- HTML5
+- CSS3
+- Git & GitHub
+
+## twórcy
+
+Ja
