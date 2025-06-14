@@ -6,9 +6,10 @@ Projekt przedstawia informacje o stolicy Hiszpanii, jej kulturze, architekturze 
 
 [Zobacz stronę na GitHub Pages](https://github.com/KarolS002/wz-inin5-hyb-wszyscy)
 
-## Podgląd strony
+## 🖼 Podgląd strony
 
-![Podgląd strony](https://github.com/KarolS002/wz-inin5-hyb-wszyscy/blob/madryt-karol/img/madryt.jpg?raw=true)
+![Podgląd strony](https://raw.githubusercontent.com/KarolS002/wz-inin5-hyb-wszyscy/madryt-karol/img/madryt.jpg)
+
 
 ## 📚 Spis treści
 
